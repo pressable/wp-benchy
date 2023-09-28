@@ -1,6 +1,6 @@
 # WP Benchy
 
-A plugin to assist with running benchmark tests. For more information about the approaches used here, see our article about how to benchmark WordPress sites.
+A plugin to assist with running benchmark tests. For more information about the approaches used here, see our article about [how to benchmark WordPress sites](https://pressable.com/benchmarking-wordpress).
 
 *(Yes, sending you to this post isn't the best experience, but it's good enough for now. PRs open if you want to make this readme better.)*
 
