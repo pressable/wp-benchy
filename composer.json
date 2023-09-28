@@ -1,0 +1,10 @@
+{
+    "name": "pressable/wp-benchy",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pressable\\WP_Benchy\\": "src/"
+        }
+    },
+    "require": {}
+}
